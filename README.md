@@ -1,6 +1,6 @@
 🚀 Salut, je suis Mehdy un passionné de technologie en quête constante de nouvelles opportunités d'apprentissage dans le monde fascinant du développement web et mobile.
 
-👨‍💻 Actuellement en parcours de formation en développement, je m'immerge dans les langages de programmation tels que HTML, CSS, JavaScript, puis ensuite une fois maitriser je vais m'orienter sur un framework React et VueJS sur le long terme
+👨‍💻 Actuellement en parcours de formation en développement, je m'immerge dans les langages de programmation tels que HTML, CSS, JavaScript, puis ensuite une fois maitriser je vais m'orienter sur des frameworks React et VueJS sur le long terme
 
 🌐 Mon voyage dans le développement web me permet d'explorer l'art de transformer des idées créatives en sites web interactifs et adaptatifs, tout en gardant un œil attentif sur les dernières tendances et les meilleures pratiques de l'industrie.
 
