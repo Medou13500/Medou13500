@@ -4,7 +4,7 @@
 
 🌐 Mon voyage dans le développement web me permet d'explorer l'art de transformer des idées créatives en sites web interactifs et adaptatifs, tout en gardant un œil attentif sur les dernières tendances et les meilleures pratiques de l'industrie.
 
-📱 Intrigué par le monde mobile, je m'aventure également dans le développement d'applications mobiles, utilisant des technologies telles que React Native pour concevoir des applications qui fonctionnent sans heurts sur les plateformes iOS et Android.
+📱 Intrigué par le monde mobile, je m'aventure également dans le développement d'applications mobiles car de nos jour on utilisent nos téléphone pour acceder a nos besoins.
 
 🤝 Passionné par le travail d'équipe, je crois fermement à la collaboration et à l'échange de connaissances. J'aime résoudre des problèmes complexes et transformer des défis en opportunités d'apprentissage.
 
